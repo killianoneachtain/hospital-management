@@ -4,4 +4,4 @@ Monitor hospital beds / wards / admissions.
 
 A database to monitor a hospitals' beds and doctor system.
 
-[Assignment Specification]()
+[Assignment Specification](Databases-Assignment1.pdf)
